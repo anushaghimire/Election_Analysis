@@ -1,0 +1,31 @@
+Last login: Wed Jul 14 19:03:15 on ttys004
+(base) agimire@Anushas-MacBook-Pro ~ % cd desktop
+(base) agimire@Anushas-MacBook-Pro desktop % cd Election_Analysis
+(base) agimire@Anushas-MacBook-Pro Election_Analysis % python3 PyPoll_challenge.py
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+-------------------------
+Largest County Turnout: Denver
+-------------------------
+
+Charles Casper Stockham: 23.0% (85,213)
+
+Diana DeGette: 73.8% (272,892)
+
+Raymon Anthony Doane: 3.1% (11,606)
+
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
+
+(base) agimire@Anushas-MacBook-Pro Election_Analysis % 
