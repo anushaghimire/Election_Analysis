@@ -37,8 +37,8 @@ The analysis of the election show that:
    - Diana DeGette, who received 73.8% of the votes and 272,892 number of votes.
 
 ## Election Audit Summary
-
-   
+- We can modify the script to look at the election results of cities. 
+- we can also modify the script to look at the demographics of the candidates such age, gender, and ethnicity.
     
 
   
